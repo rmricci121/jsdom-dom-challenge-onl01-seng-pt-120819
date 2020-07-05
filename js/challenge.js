@@ -3,6 +3,7 @@ const counter = document.getElementById('counter');
 let time = counter.innerText
 
 let pause = document.getElementById("pause")
+
 let minus = document.getElementById("minus")
 let plus = document.getElementById("plus")
 
